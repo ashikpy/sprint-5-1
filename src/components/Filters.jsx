@@ -30,7 +30,7 @@ export default function Filters() {
   }
 
   return (
-    <div className="w-[30%] border border-gray-300 bg-white p-6 rounded">
+    <div className="lg:mt-0 mt-5 lg:w-[40%]  xl:w-[30%] border border-gray-300 bg-white p-6 rounded">
       <h1 className="text-2xl font-bold mb-4">Filters</h1>
 
       <label htmlFor="nameFilter" className="block mb-2">
